@@ -1,6 +1,6 @@
 # _Address Book_
 
-### _A address book in JavaScrip, August 23, 2016_
+### _A address book in JavaScript, August 23, 2016_
 
 #### _**By Aimen Khakwani & Joanna Anderson**_
 
